@@ -1,4 +1,4 @@
-class Helper(object):
+button Helper(object):
     HELP_ABOUT = '''
 **➻ ᴛʜɪs ɪs <u>{0}</u>
 ─────────────────────────
