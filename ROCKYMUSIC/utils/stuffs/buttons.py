@@ -30,23 +30,7 @@ class BUTTONS(object):
         InlineKeyboardButton("˹ ʏᴛ-ᴀᴘɪ ˼", callback_data="bot_info_data"),
         InlineKeyboardButton("˹ ʟᴧηɢᴜᴧɢє ˼", callback_data="LG"),
     ],
-    [
-        
-        InlineKeyboardButton("˹ ᴅᴘ sᴛʏʟɪsʜ  ˼", url="https://t.me/DpStylish"),
-        InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data="settingsback_helper"),
-    ]
-    ]
-    
-
-
-    INFO_NEW = [
-    [
-        InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data="settings_back_helper"),
-        InlineKeyboardButton("• sᴛʏʟɪsʜ ғᴏɴᴛ •", url="https://t.me/NameBioFont")
-    ],
-    ]
-    
-    
+   
 
 # ===========================================================
 # ©️ 2025-26 All Rights Reserved by Team Rocky (Im-Notcoder) 😎
